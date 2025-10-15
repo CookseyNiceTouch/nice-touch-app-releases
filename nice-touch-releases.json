@@ -1,7 +1,7 @@
 {
     "win": {
       "platform": "win",
-      "latestVersion": "0.1.0-alpha.2",
+      "latestVersion": "0.1.0-alpha.1",
       "minSupportedVersion": "0.1.0-alpha.1",
       "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/v0.1.0-alpha.1",
       "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/v0.1.0-alpha.1/Nice.Touch-Windows-0.1.0-alpha.1-Setup.msi"
