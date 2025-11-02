@@ -8,10 +8,10 @@
   },
   "mac": {
     "platform": "mac",
-    "latestVersion": "0.1.0-alpha.1",
+    "latestVersion": "0.2.0-alpha.2",
     "minSupportedVersion": "0.1.0-alpha.1",
-    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/v0.1.0-alpha.1",
-    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/v0.1.0-alpha.1/Nice.Touch-Mac-0.1.0-alpha.1-Installer.dmg"
+    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/nt-app/v0.2.0-alpha.2",
+    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/nt-app/v0.2.0-alpha.2/Nice%20Touch-Mac-0.2.0-alpha.2-Installer.dmg"
   },
   "linux": {
     "platform": "linux",
