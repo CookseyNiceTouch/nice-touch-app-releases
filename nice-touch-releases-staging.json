@@ -1,17 +1,17 @@
 {
   "win": {
     "platform": "win",
-    "latestVersion": "0.2.2-beta.1",
+    "latestVersion": "0.2.1-beta.5",
     "minSupportedVersion": "0.1.2-alpha.1",
-    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/nt-app%2Fv0.2.2-beta.1",
-    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/nt-app%2Fv0.2.2-beta.1/Nice.Touch-Windows-0.2.2-beta.1-Setup.exe"
+    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/nt-app%2Fv0.2.1-beta.5",
+    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/nt-app%2Fv0.2.1-beta.5/Nice.Touch-Windows-0.2.1-beta.5-Setup.exe"
   },
   "mac": {
     "platform": "mac",
-    "latestVersion": "0.2.2-beta.1",
+    "latestVersion": "0.2.1-beta.5",
     "minSupportedVersion": "0.1.0-alpha.1",
-    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/nt-app%2Fv0.2.2-beta.1",
-    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/nt-app%2Fv0.2.2-beta.1/Nice.Touch-Mac-0.2.2-beta.1-Installer.dmg"
+    "releaseNotesUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/tag/nt-app%2Fv0.2.1-beta.5",
+    "downloadUrl": "https://github.com/CookseyNiceTouch/nice-touch-app-releases/releases/download/nt-app%2Fv0.2.1-beta.5/Nice.Touch-Mac-0.2.1-beta.5-Installer.dmg"
   },
   "linux": {
     "platform": "linux",
